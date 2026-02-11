@@ -5,4 +5,4 @@
  * This program is a microbit that spits out my name
 */
 
-basic.showString('Hello, Jayden)
+basic.showString('Hello, Jayden')
