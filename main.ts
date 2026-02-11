@@ -5,4 +5,5 @@
  * This program is a microbit that spits out my name
 */
 
-basic.showString('Hello, Jayden')
+const name = 'jayden';
+basic.showString(name);
